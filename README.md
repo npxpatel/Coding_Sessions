@@ -17,9 +17,26 @@ A collection of algorithmic tasks.
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
