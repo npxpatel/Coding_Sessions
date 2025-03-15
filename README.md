@@ -6,6 +6,7 @@ A collection of algorithmic tasks.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/npxpatel/Coding_Sessions/tree/master/0041-first-missing-positive) |
+| [0472-concatenated-words](https://github.com/npxpatel/Coding_Sessions/tree/master/0472-concatenated-words) |
 | [0735-asteroid-collision](https://github.com/npxpatel/Coding_Sessions/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -50,4 +51,20 @@ A collection of algorithmic tasks.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/npxpatel/Coding_Sessions/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/npxpatel/Coding_Sessions/tree/master/0472-concatenated-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/npxpatel/Coding_Sessions/tree/master/0472-concatenated-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/npxpatel/Coding_Sessions/tree/master/0472-concatenated-words) |
+## Trie
+|  |
+| ------- |
+| [0472-concatenated-words](https://github.com/npxpatel/Coding_Sessions/tree/master/0472-concatenated-words) |
 <!---LeetCode Topics End-->
