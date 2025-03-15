@@ -5,10 +5,12 @@ A collection of algorithmic tasks.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/npxpatel/Coding_Sessions/tree/master/0041-first-missing-positive) |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/npxpatel/Coding_Sessions/tree/master/0041-first-missing-positive) |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
