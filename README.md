@@ -6,6 +6,7 @@ A collection of algorithmic tasks.
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/npxpatel/Coding_Sessions/tree/master/0041-first-missing-positive) |
+| [0735-asteroid-collision](https://github.com/npxpatel/Coding_Sessions/tree/master/0735-asteroid-collision) |
 | [0817-design-hashmap](https://github.com/npxpatel/Coding_Sessions/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of algorithmic tasks.
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/npxpatel/Coding_Sessions/tree/master/0295-find-median-from-data-stream) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/npxpatel/Coding_Sessions/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/npxpatel/Coding_Sessions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
